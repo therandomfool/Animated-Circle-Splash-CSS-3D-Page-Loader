@@ -37,11 +37,11 @@ body{
     0%, 100%
     {
         
-        transform: translateZ(-170px);
+        transform: translateZ(-220px);
     }
     50%
     {
-        transform: translateZ(170px);
+        transform: translateZ(220px);
     }
 }
 
@@ -176,7 +176,7 @@ body{
     left: 140px;
     bottom: 140px;
     right: 140px;
-    animation-delay: 3.25s ;
+    animation-delay: 3.45s ;
     background-color: gray;
-    opacity: .7;
+    opacity: .9;
 }
